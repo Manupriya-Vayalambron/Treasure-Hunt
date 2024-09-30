@@ -1,2 +1,25 @@
 # Treasure-Hunt
-Treasure Hunt is an adventure game built using C programming. This was created as part of Prayaag 4.0, the tech fest @LBSITW for the C Gaming Competition.
+Treasure Hunt is an adventure game built using C programming. This was created as part of Prayaag 4.0 (the tech fest @LBSITW), for C Gaming Competition.
+New maze will be generated on every restart.
+
+Sample output:
+P....X......
+............
+.......X....
+....*.......
+...........X
+..X.........
+............
+.......X....
+............
+...........T
+Enter your move:
+
+P- Player
+X- Blocks
+*- Die
+.- Path
+T- Treasure
+
+Out of bounds code also implemented. The maze is a 10x10 matrix.
+
